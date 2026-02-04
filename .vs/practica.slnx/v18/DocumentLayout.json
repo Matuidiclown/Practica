@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dsanchezm\\source\\repos\\practica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.data\\core\\sqlserverdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|solutionrelative:hublap.data\\core\\sqlserverdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DF1FA8-E733-40F6-96EE-217888685637}|HubLap.Models\\HubLap.Models.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.models\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DF1FA8-E733-40F6-96EE-217888685637}|HubLap.Models\\HubLap.Models.csproj|solutionrelative:hublap.models\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DF1FA8-E733-40F6-96EE-217888685637}|HubLap.Models\\HubLap.Models.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.models\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DF1FA8-E733-40F6-96EE-217888685637}|HubLap.Models\\HubLap.Models.csproj|solutionrelative:hublap.models\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.data\\core\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|solutionrelative:hublap.data\\core\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.data\\hublap.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|solutionrelative:hublap.data\\hublap.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741A3E35-2D9E-4ABE-BE75-09AEDE1B4715}|HubLap.Business\\HubLap.Business.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.business\\hublap.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{741A3E35-2D9E-4ABE-BE75-09AEDE1B4715}|HubLap.Business\\HubLap.Business.csproj|solutionrelative:hublap.business\\hublap.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4807EEC-6935-4599-9CE5-90B1BAD4834F}|HubLap.Web\\HubLap.Web.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.web\\hublap.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4807EEC-6935-4599-9CE5-90B1BAD4834F}|HubLap.Web\\HubLap.Web.csproj|solutionrelative:hublap.web\\hublap.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlServerDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Core\\SqlServerDataAccess.cs",
+              "RelativeDocumentMoniker": "HubLap.Data\\Core\\SqlServerDataAccess.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Core\\SqlServerDataAccess.cs",
+              "RelativeToolTip": "HubLap.Data\\Core\\SqlServerDataAccess.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T20:44:02.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Core\\IDataAccess.cs",
+              "RelativeDocumentMoniker": "HubLap.Data\\Core\\IDataAccess.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Core\\IDataAccess.cs",
+              "RelativeToolTip": "HubLap.Data\\Core\\IDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T20:39:16.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HubLap.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Business\\HubLap.Business.csproj",
+              "RelativeDocumentMoniker": "HubLap.Business\\HubLap.Business.csproj",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Business\\HubLap.Business.csproj",
+              "RelativeToolTip": "HubLap.Business\\HubLap.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T20:35:31.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "HubLap.Models\\Entities\\Room.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\Room.cs",
+              "RelativeToolTip": "HubLap.Models\\Entities\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T20:01:04.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "HubLap.Models\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\Entity.cs",
+              "RelativeToolTip": "HubLap.Models\\Entities\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T19:51:23.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HubLap.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\HubLap.Web.csproj",
+              "RelativeDocumentMoniker": "HubLap.Web\\HubLap.Web.csproj",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\HubLap.Web.csproj",
+              "RelativeToolTip": "HubLap.Web\\HubLap.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T19:46:20.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HubLap.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\HubLap.Data.csproj",
+              "RelativeDocumentMoniker": "HubLap.Data\\HubLap.Data.csproj",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\HubLap.Data.csproj",
+              "RelativeToolTip": "HubLap.Data\\HubLap.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T19:45:09.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

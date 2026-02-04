@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HubLap.Business/HubLap.Business.csproj" Id="741a3e35-2d9e-4abe-be75-09aede1b4715" />
+  <Project Path="HubLap.Data/HubLap.Data.csproj" Id="8bfdb7fa-6500-489e-ab16-6f68ced2c550" />
+  <Project Path="HubLap.Models/HubLap.Models.csproj" Id="70df1fa8-e733-40f6-96ee-217888685637" />
+  <Project Path="HubLap.Web/HubLap.Web.csproj" Id="f4807eec-6935-4599-9ce5-90b1bad4834f" />
+</Solution>

@@ -1,0 +1,17 @@
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\bin\Debug\net8.0\HubLap.Business.deps.json
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\bin\Debug\net8.0\HubLap.Business.dll
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\bin\Debug\net8.0\HubLap.Business.pdb
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\bin\Debug\net8.0\HubLap.Data.dll
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\bin\Debug\net8.0\HubLap.Models.dll
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\bin\Debug\net8.0\HubLap.Data.pdb
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\bin\Debug\net8.0\HubLap.Models.pdb
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\obj\Debug\net8.0\HubLap.Business.csproj.AssemblyReference.cache
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\obj\Debug\net8.0\HubLap.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\obj\Debug\net8.0\HubLap.Business.AssemblyInfoInputs.cache
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\obj\Debug\net8.0\HubLap.Business.AssemblyInfo.cs
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\obj\Debug\net8.0\HubLap.Business.csproj.CoreCompileInputs.cache
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\obj\Debug\net8.0\HubLap.B.F3BFC38A.Up2Date
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\obj\Debug\net8.0\HubLap.Business.dll
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\obj\Debug\net8.0\refint\HubLap.Business.dll
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\obj\Debug\net8.0\HubLap.Business.pdb
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\obj\Debug\net8.0\ref\HubLap.Business.dll

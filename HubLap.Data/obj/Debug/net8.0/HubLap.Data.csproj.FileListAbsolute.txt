@@ -1,0 +1,15 @@
+C:\Users\dsanchezm\source\repos\practica\HubLap.Data\bin\Debug\net8.0\HubLap.Data.deps.json
+C:\Users\dsanchezm\source\repos\practica\HubLap.Data\bin\Debug\net8.0\HubLap.Data.dll
+C:\Users\dsanchezm\source\repos\practica\HubLap.Data\bin\Debug\net8.0\HubLap.Data.pdb
+C:\Users\dsanchezm\source\repos\practica\HubLap.Data\bin\Debug\net8.0\HubLap.Models.dll
+C:\Users\dsanchezm\source\repos\practica\HubLap.Data\bin\Debug\net8.0\HubLap.Models.pdb
+C:\Users\dsanchezm\source\repos\practica\HubLap.Data\obj\Debug\net8.0\HubLap.Data.csproj.AssemblyReference.cache
+C:\Users\dsanchezm\source\repos\practica\HubLap.Data\obj\Debug\net8.0\HubLap.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsanchezm\source\repos\practica\HubLap.Data\obj\Debug\net8.0\HubLap.Data.AssemblyInfoInputs.cache
+C:\Users\dsanchezm\source\repos\practica\HubLap.Data\obj\Debug\net8.0\HubLap.Data.AssemblyInfo.cs
+C:\Users\dsanchezm\source\repos\practica\HubLap.Data\obj\Debug\net8.0\HubLap.Data.csproj.CoreCompileInputs.cache
+C:\Users\dsanchezm\source\repos\practica\HubLap.Data\obj\Debug\net8.0\HubLap.D.407F286B.Up2Date
+C:\Users\dsanchezm\source\repos\practica\HubLap.Data\obj\Debug\net8.0\HubLap.Data.dll
+C:\Users\dsanchezm\source\repos\practica\HubLap.Data\obj\Debug\net8.0\refint\HubLap.Data.dll
+C:\Users\dsanchezm\source\repos\practica\HubLap.Data\obj\Debug\net8.0\HubLap.Data.pdb
+C:\Users\dsanchezm\source\repos\practica\HubLap.Data\obj\Debug\net8.0\ref\HubLap.Data.dll

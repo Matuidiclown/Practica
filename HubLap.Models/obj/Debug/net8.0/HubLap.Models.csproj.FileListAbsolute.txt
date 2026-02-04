@@ -1,0 +1,11 @@
+C:\Users\dsanchezm\source\repos\practica\HubLap.Models\bin\Debug\net8.0\HubLap.Models.deps.json
+C:\Users\dsanchezm\source\repos\practica\HubLap.Models\bin\Debug\net8.0\HubLap.Models.dll
+C:\Users\dsanchezm\source\repos\practica\HubLap.Models\bin\Debug\net8.0\HubLap.Models.pdb
+C:\Users\dsanchezm\source\repos\practica\HubLap.Models\obj\Debug\net8.0\HubLap.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsanchezm\source\repos\practica\HubLap.Models\obj\Debug\net8.0\HubLap.Models.AssemblyInfoInputs.cache
+C:\Users\dsanchezm\source\repos\practica\HubLap.Models\obj\Debug\net8.0\HubLap.Models.AssemblyInfo.cs
+C:\Users\dsanchezm\source\repos\practica\HubLap.Models\obj\Debug\net8.0\HubLap.Models.csproj.CoreCompileInputs.cache
+C:\Users\dsanchezm\source\repos\practica\HubLap.Models\obj\Debug\net8.0\HubLap.Models.dll
+C:\Users\dsanchezm\source\repos\practica\HubLap.Models\obj\Debug\net8.0\refint\HubLap.Models.dll
+C:\Users\dsanchezm\source\repos\practica\HubLap.Models\obj\Debug\net8.0\HubLap.Models.pdb
+C:\Users\dsanchezm\source\repos\practica\HubLap.Models\obj\Debug\net8.0\ref\HubLap.Models.dll

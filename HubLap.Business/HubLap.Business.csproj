@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HubLap.Data\HubLap.Data.csproj" />
+    <ProjectReference Include="..\HubLap.Models\HubLap.Models.csproj" />
+  </ItemGroup>
+
+</Project>

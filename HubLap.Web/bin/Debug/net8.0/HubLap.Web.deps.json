@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HubLap.Web/1.0.0": {
+        "dependencies": {
+          "HubLap.Business": "1.0.0",
+          "HubLap.Models": "1.0.0"
+        },
+        "runtime": {
+          "HubLap.Web.dll": {}
+        }
+      },
+      "HubLap.Business/1.0.0": {
+        "dependencies": {
+          "HubLap.Data": "1.0.0",
+          "HubLap.Models": "1.0.0"
+        },
+        "runtime": {
+          "HubLap.Business.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "HubLap.Data/1.0.0": {
+        "dependencies": {
+          "HubLap.Models": "1.0.0"
+        },
+        "runtime": {
+          "HubLap.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "HubLap.Models/1.0.0": {
+        "runtime": {
+          "HubLap.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HubLap.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HubLap.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HubLap.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HubLap.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
