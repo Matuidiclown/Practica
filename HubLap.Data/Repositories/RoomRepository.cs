@@ -32,18 +32,17 @@ namespace HubLap.Data.Repositories
         public async Task AddRoom(Room room)
         {
             // SaveData<T> -> T=dynamic (el objeto anónimo con los datos)
-            await _db.SaveData(
-                "sp_InsertRoom",
-                new
-                {
-                    room.Name,
-                    room.Capacity,
-                    room.Location,
-                    room.HasProjector,
-                    room.HasWhiteboard,
-                    room.Description,
-                }
-            );
+            await _db.SaveData("sp_InsertRoom", new
+            {
+                room.RoomTypeId,
+                room.Name,
+                room.Capacity,
+                room.Location,
+                // room.PricePerHour, <-- BORRAR ESTA LÍNEA
+                room.HasProjector,
+                room.HasWhiteboard,
+                room.Description
+            }   );
         }
     }
 }
