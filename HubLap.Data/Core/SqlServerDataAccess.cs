@@ -23,12 +23,14 @@ namespace HubLap.Data.Core
 
         // Implementación de LEER
         public async Task<IEnumerable<T>> LoadData<T, U>(string storedProcedure, U parameters, string connectionStringName = "DefaultConnection")
-        {
+        {   // saca la direccion de nuestra bd pa 
             string connectionString = _config.GetConnectionString(connectionStringName);
+            // creamos y abrimos la conexion con la bd , es nuestro tunel uwu
 
             using (IDbConnection connection = new SqlConnection(connectionString))
             {
                 // Dapper hace su magia aquí: QueryAsync
+                // 
                 return await connection.QueryAsync<T>(storedProcedure, parameters, commandType: CommandType.StoredProcedure);
             }
         }
