@@ -17,25 +17,21 @@ namespace HubLap.Data.Repositories
             _config = config;
         }
 
+        // MÉTODO 1: Crear la reserva (Con Transacción)
         public async Task CreateBooking(BookingHeader booking)
         {
-            // 1. Obtenemos la cadena de conexión
             string connectionString = _config.GetConnectionString("DefaultConnection");
 
             using (IDbConnection connection = new SqlConnection(connectionString))
             {
-                // Abrimos la conexión manualmente para poder manejar la transacción
                 connection.Open();
 
-                // 2. Iniciamos la Transacción ("Todo o Nada")
                 using (var transaction = connection.BeginTransaction())
                 {
                     try
                     {
-                        // A. Insertar la CABECERA y obtener el ID nuevo
-                        // Usamos QuerySingleAsync porque el SP devuelve "SELECT SCOPE_IDENTITY()"
+                        // A. Insertar Cabecera
                         string sqlHeader = "sp_InsertBookingHeader";
-
                         int newBookingId = await connection.QuerySingleAsync<int>(
                             sqlHeader,
                             new
@@ -44,16 +40,14 @@ namespace HubLap.Data.Repositories
                                 booking.StatusId,
                                 booking.Subject
                             },
-                            transaction, // ¡Importante! Pasamos la transacción
+                            transaction,
                             commandType: CommandType.StoredProcedure
                         );
 
-                        // B. Insertar los DETALLES usando el ID que acabamos de obtener
+                        // B. Insertar Detalles
                         string sqlDetail = "sp_InsertBookingDetail";
-
                         foreach (var detail in booking.Details)
                         {
-                            // Asignamos el ID del padre al hijo
                             detail.BookingHeaderId = newBookingId;
 
                             await connection.ExecuteAsync(
@@ -65,21 +59,38 @@ namespace HubLap.Data.Repositories
                                     detail.StartTime,
                                     detail.EndTime
                                 },
-                                transaction, // ¡Importante! Pasamos la transacción
+                                transaction,
                                 commandType: CommandType.StoredProcedure
                             );
                         }
 
-                        // C. Si todo salió bien, confirmamos los cambios
                         transaction.Commit();
                     }
                     catch
                     {
-                        // D. Si hubo CUALQUIER error, deshacemos todo
                         transaction.Rollback();
-                        throw; // Lanzamos el error para que la Web se entere
+                        throw;
                     }
                 }
+            }
+        }
+
+        // MÉTODO 2: Verificar Disponibilidad (Nuevo)
+        public async Task<bool> IsRoomAvailable(int roomId, DateTime start, DateTime end)
+        {
+            string connectionString = _config.GetConnectionString("DefaultConnection");
+
+            using (IDbConnection connection = new SqlConnection(connectionString))
+            {
+                // Ejecutamos el SP que cuenta conflictos
+                // Si devuelve 0, significa que NO hay conflictos (está libre)
+                int conflicts = await connection.ExecuteScalarAsync<int>(
+                    "sp_CheckAvailability",
+                    new { RoomId = roomId, StartTime = start, EndTime = end },
+                    commandType: CommandType.StoredProcedure
+                );
+
+                return conflicts == 0;
             }
         }
     }

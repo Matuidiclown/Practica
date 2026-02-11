@@ -1,0 +1,33 @@
+﻿@model HubLap.Models.Entities.BookingHeader
+@{
+    ViewData["Title"] = "Nueva Reserva";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg border-0">
+        <div class="card-header bg-primary text-white">
+            <h4>📅 Reservar Espacio</h4>
+        </div>
+        <div class="card-body">
+            @if (ViewBag.Error != null)
+            {
+                <div class="alert alert-danger">@ViewBag.Error</div>
+            }
+            <form asp-action="Create" method="post">
+                <div class="mb-3">
+                    <label>Asunto</label>
+                    <input asp-for="Subject" class="form-control" required placeholder="Ej: Daily Meeting" />
+                </div>
+                <div class="mb-3">
+                    <label>Sala</label>
+                    <select name="selectedRoomId" class="form-select" asp-items="ViewBag.RoomList"></select>
+                </div>
+                <div class="row">
+                    <div class="col"><label>Inicio</label><input type="datetime-local" name="start" class="form-control" required /></div>
+                    <div class="col"><label>Fin</label><input type="datetime-local" name="end" class="form-control" required /></div>
+                </div>
+                <button type="submit" class="btn btn-primary mt-3 w-100">Confirmar Reserva</button>
+            </form>
+        </div>
+    </div>
+</div>

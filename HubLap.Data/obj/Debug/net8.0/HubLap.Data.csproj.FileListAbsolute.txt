@@ -13,3 +13,4 @@ C:\Users\dsanchezm\source\repos\practica\HubLap.Data\obj\Debug\net8.0\HubLap.Dat
 C:\Users\dsanchezm\source\repos\practica\HubLap.Data\obj\Debug\net8.0\refint\HubLap.Data.dll
 C:\Users\dsanchezm\source\repos\practica\HubLap.Data\obj\Debug\net8.0\HubLap.Data.pdb
 C:\Users\dsanchezm\source\repos\practica\HubLap.Data\obj\Debug\net8.0\ref\HubLap.Data.dll
+C:\Users\dsanchezm\source\repos\practica\HubLap.Data\obj\Debug\net8.0\HubLap.Data.sourcelink.json

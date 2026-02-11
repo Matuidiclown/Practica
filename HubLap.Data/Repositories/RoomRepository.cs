@@ -13,7 +13,7 @@ namespace HubLap.Data.Repositories
     {
         private readonly IDataAccess _db;
 
-        // Inyección de dependencias: Pedimos el 'Obrero Genérico' que creamos antes
+        // Inyección de dependencias
         public RoomRepository(IDataAccess db)
         {
             _db = db;
@@ -21,8 +21,6 @@ namespace HubLap.Data.Repositories
 
         public async Task<IEnumerable<Room>> GetRooms()
         {
-            // LoadData<T, U> -> T=Room (lo que sale), U=dynamic (lo que entra)
-            // Usamos dynamic porque el SP no pide parámetros
             return await _db.LoadData<Room, dynamic>(
                 "sp_GetAllRooms",
                 new { }
@@ -38,7 +36,7 @@ namespace HubLap.Data.Repositories
                 room.Name,
                 room.Capacity,
                 room.Location,
-                // room.PricePerHour, <-- BORRAR ESTA LÍNEA
+                // room.PricePerHour
                 room.HasProjector,
                 room.HasWhiteboard,
                 room.Description

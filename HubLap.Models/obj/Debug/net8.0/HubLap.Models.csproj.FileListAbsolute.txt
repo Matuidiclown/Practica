@@ -9,3 +9,4 @@ C:\Users\dsanchezm\source\repos\practica\HubLap.Models\obj\Debug\net8.0\HubLap.M
 C:\Users\dsanchezm\source\repos\practica\HubLap.Models\obj\Debug\net8.0\refint\HubLap.Models.dll
 C:\Users\dsanchezm\source\repos\practica\HubLap.Models\obj\Debug\net8.0\HubLap.Models.pdb
 C:\Users\dsanchezm\source\repos\practica\HubLap.Models\obj\Debug\net8.0\ref\HubLap.Models.dll
+C:\Users\dsanchezm\source\repos\practica\HubLap.Models\obj\Debug\net8.0\HubLap.Models.sourcelink.json

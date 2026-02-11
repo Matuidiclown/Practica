@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HubLap.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20140dc8e463e0a02ac7928dbed2e7da3a3ea2ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cec1fbab9d28c833792fb4ac06adbb960be17c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("HubLap.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HubLap.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

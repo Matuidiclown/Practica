@@ -15,3 +15,4 @@ C:\Users\dsanchezm\source\repos\practica\HubLap.Business\obj\Debug\net8.0\HubLap
 C:\Users\dsanchezm\source\repos\practica\HubLap.Business\obj\Debug\net8.0\refint\HubLap.Business.dll
 C:\Users\dsanchezm\source\repos\practica\HubLap.Business\obj\Debug\net8.0\HubLap.Business.pdb
 C:\Users\dsanchezm\source\repos\practica\HubLap.Business\obj\Debug\net8.0\ref\HubLap.Business.dll
+C:\Users\dsanchezm\source\repos\practica\HubLap.Business\obj\Debug\net8.0\HubLap.Business.sourcelink.json

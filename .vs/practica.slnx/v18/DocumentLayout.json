@@ -3,76 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\dsanchezm\\source\\repos\\practica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\Room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Models\\Entities\\Room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4807EEC-6935-4599-9CE5-90B1BAD4834F}|HubLap.Web\\HubLap.Web.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4807EEC-6935-4599-9CE5-90B1BAD4834F}|HubLap.Web\\HubLap.Web.csproj|solutionrelative:hublap.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Web\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{741A3E35-2D9E-4ABE-BE75-09AEDE1B4715}|HubLap.Business\\HubLap.Business.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.business\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741A3E35-2D9E-4ABE-BE75-09AEDE1B4715}|HubLap.Business\\HubLap.Business.csproj|solutionrelative:hublap.business\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Repositories\\BookinRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Data\\Repositories\\BookinRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4807EEC-6935-4599-9CE5-90B1BAD4834F}|HubLap.Web\\HubLap.Web.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4807EEC-6935-4599-9CE5-90B1BAD4834F}|HubLap.Web\\HubLap.Web.csproj|solutionrelative:hublap.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Interfaces\\IBookingRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Data\\Interfaces\\IBookingRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{741A3E35-2D9E-4ABE-BE75-09AEDE1B4715}|HubLap.Business\\HubLap.Business.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.business\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741A3E35-2D9E-4ABE-BE75-09AEDE1B4715}|HubLap.Business\\HubLap.Business.csproj|solutionrelative:hublap.business\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\RoomType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Models\\Entities\\RoomType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.data\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|solutionrelative:hublap.data\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\BookingDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Models\\Entities\\BookingDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.data\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|solutionrelative:hublap.data\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\BookingHeader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Models\\Entities\\BookingHeader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.data\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|solutionrelative:hublap.data\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Interfaces\\IRoomRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Data\\Interfaces\\IRoomRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.data\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|solutionrelative:hublap.data\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Core\\SqlServerDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Data\\Core\\SqlServerDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.data\\interfaces\\iroomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|solutionrelative:hublap.data\\interfaces\\iroomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Core\\IDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Data\\Core\\IDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.data\\core\\sqlserverdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|solutionrelative:hublap.data\\core\\sqlserverdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\Entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Models\\Entities\\Entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.data\\core\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|solutionrelative:hublap.data\\core\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Repositories\\RoomRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Data\\Repositories\\RoomRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70DF1FA8-E733-40F6-96EE-217888685637}|HubLap.Models\\HubLap.Models.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.models\\entities\\bookingheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DF1FA8-E733-40F6-96EE-217888685637}|HubLap.Models\\HubLap.Models.csproj|solutionrelative:hublap.models\\entities\\bookingheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Business\\HubLap.Business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Business\\HubLap.Business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{70DF1FA8-E733-40F6-96EE-217888685637}|HubLap.Models\\HubLap.Models.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.models\\entities\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DF1FA8-E733-40F6-96EE-217888685637}|HubLap.Models\\HubLap.Models.csproj|solutionrelative:hublap.models\\entities\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Interfaces\\IRoomServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Data\\Interfaces\\IRoomServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4807EEC-6935-4599-9CE5-90B1BAD4834F}|HubLap.Web\\HubLap.Web.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.web\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4807EEC-6935-4599-9CE5-90B1BAD4834F}|HubLap.Web\\HubLap.Web.csproj|solutionrelative:hublap.web\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F4807EEC-6935-4599-9CE5-90B1BAD4834F}|HubLap.Web\\HubLap.Web.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.web\\hublap.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4807EEC-6935-4599-9CE5-90B1BAD4834F}|HubLap.Web\\HubLap.Web.csproj|solutionrelative:hublap.web\\hublap.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Business\\Services\\RoomService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Business\\Services\\RoomService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70DF1FA8-E733-40F6-96EE-217888685637}|HubLap.Models\\HubLap.Models.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.models\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DF1FA8-E733-40F6-96EE-217888685637}|HubLap.Models\\HubLap.Models.csproj|solutionrelative:hublap.models\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\HubLap.Web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Web\\HubLap.Web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{70DF1FA8-E733-40F6-96EE-217888685637}|HubLap.Models\\HubLap.Models.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.models\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DF1FA8-E733-40F6-96EE-217888685637}|HubLap.Models\\HubLap.Models.csproj|solutionrelative:hublap.models\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\HubLap.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HubLap.Data\\HubLap.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{70DF1FA8-E733-40F6-96EE-217888685637}|HubLap.Models\\HubLap.Models.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.models\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DF1FA8-E733-40F6-96EE-217888685637}|HubLap.Models\\HubLap.Models.csproj|solutionrelative:hublap.models\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DF1FA8-E733-40F6-96EE-217888685637}|HubLap.Models\\HubLap.Models.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.models\\hublap.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70DF1FA8-E733-40F6-96EE-217888685637}|HubLap.Models\\HubLap.Models.csproj|solutionrelative:hublap.models\\hublap.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4807EEC-6935-4599-9CE5-90B1BAD4834F}|HubLap.Web\\HubLap.Web.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4807EEC-6935-4599-9CE5-90B1BAD4834F}|HubLap.Web\\HubLap.Web.csproj|solutionrelative:hublap.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4807EEC-6935-4599-9CE5-90B1BAD4834F}|HubLap.Web\\HubLap.Web.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4807EEC-6935-4599-9CE5-90B1BAD4834F}|HubLap.Web\\HubLap.Web.csproj|solutionrelative:hublap.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741A3E35-2D9E-4ABE-BE75-09AEDE1B4715}|HubLap.Business\\HubLap.Business.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.business\\hublap.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{741A3E35-2D9E-4ABE-BE75-09AEDE1B4715}|HubLap.Business\\HubLap.Business.csproj|solutionrelative:hublap.business\\hublap.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741A3E35-2D9E-4ABE-BE75-09AEDE1B4715}|HubLap.Business\\HubLap.Business.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.business\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741A3E35-2D9E-4ABE-BE75-09AEDE1B4715}|HubLap.Business\\HubLap.Business.csproj|solutionrelative:hublap.business\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|c:\\users\\dsanchezm\\source\\repos\\practica\\hublap.data\\hublap.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BFDB7FA-6500-489E-AB16-6F68CED2C550}|HubLap.Data\\HubLap.Data.csproj|solutionrelative:hublap.data\\hublap.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,83 +106,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\Program.cs",
-              "RelativeDocumentMoniker": "HubLap.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\Program.cs",
-              "RelativeToolTip": "HubLap.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T17:54:02.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookinRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Repositories\\BookinRepository.cs",
-              "RelativeDocumentMoniker": "HubLap.Data\\Repositories\\BookinRepository.cs",
-              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Repositories\\BookinRepository.cs",
-              "RelativeToolTip": "HubLap.Data\\Repositories\\BookinRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T17:53:40.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IBookingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Interfaces\\IBookingRepository.cs",
-              "RelativeDocumentMoniker": "HubLap.Data\\Interfaces\\IBookingRepository.cs",
-              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Interfaces\\IBookingRepository.cs",
-              "RelativeToolTip": "HubLap.Data\\Interfaces\\IBookingRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T17:53:05.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RoomType.cs",
-              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\RoomType.cs",
-              "RelativeDocumentMoniker": "HubLap.Models\\Entities\\RoomType.cs",
-              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\RoomType.cs",
-              "RelativeToolTip": "HubLap.Models\\Entities\\RoomType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T16:55:50.656Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BookingDetail.cs",
-              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\BookingDetail.cs",
-              "RelativeDocumentMoniker": "HubLap.Models\\Entities\\BookingDetail.cs",
-              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\BookingDetail.cs",
-              "RelativeToolTip": "HubLap.Models\\Entities\\BookingDetail.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T16:55:25.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookingHeader.cs",
-              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\BookingHeader.cs",
-              "RelativeDocumentMoniker": "HubLap.Models\\Entities\\BookingHeader.cs",
-              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\BookingHeader.cs",
-              "RelativeToolTip": "HubLap.Models\\Entities\\BookingHeader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T16:54:52.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "IRoomRepository.cs",
               "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Interfaces\\IRoomRepository.cs",
               "RelativeDocumentMoniker": "HubLap.Data\\Interfaces\\IRoomRepository.cs",
@@ -171,79 +123,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "SqlServerDataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Core\\SqlServerDataAccess.cs",
-              "RelativeDocumentMoniker": "HubLap.Data\\Core\\SqlServerDataAccess.cs",
-              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Core\\SqlServerDataAccess.cs",
-              "RelativeToolTip": "HubLap.Data\\Core\\SqlServerDataAccess.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T20:44:02.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IDataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Core\\IDataAccess.cs",
-              "RelativeDocumentMoniker": "HubLap.Data\\Core\\IDataAccess.cs",
-              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Core\\IDataAccess.cs",
-              "RelativeToolTip": "HubLap.Data\\Core\\IDataAccess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T20:39:16.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\Room.cs",
-              "RelativeDocumentMoniker": "HubLap.Models\\Entities\\Room.cs",
-              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\Room.cs",
-              "RelativeToolTip": "HubLap.Models\\Entities\\Room.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T20:01:04.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\Entity.cs",
-              "RelativeDocumentMoniker": "HubLap.Models\\Entities\\Entity.cs",
-              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\Entity.cs",
-              "RelativeToolTip": "HubLap.Models\\Entities\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T19:51:23.461Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RoomRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Repositories\\RoomRepository.cs",
-              "RelativeDocumentMoniker": "HubLap.Data\\Repositories\\RoomRepository.cs",
-              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Repositories\\RoomRepository.cs",
-              "RelativeToolTip": "HubLap.Data\\Repositories\\RoomRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA1wCwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T05:10:47.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HubLap.Business.csproj",
-              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Business\\HubLap.Business.csproj",
-              "RelativeDocumentMoniker": "HubLap.Business\\HubLap.Business.csproj",
-              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Business\\HubLap.Business.csproj",
-              "RelativeToolTip": "HubLap.Business\\HubLap.Business.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-03T20:35:31.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "IRoomServices.cs",
               "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Interfaces\\IRoomServices.cs",
               "RelativeDocumentMoniker": "HubLap.Data\\Interfaces\\IRoomServices.cs",
@@ -255,31 +134,152 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "HubLap.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\appsettings.json",
-              "RelativeToolTip": "HubLap.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-09T13:40:15.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RoomService.cs",
-              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Business\\Services\\RoomService.cs",
-              "RelativeDocumentMoniker": "HubLap.Business\\Services\\RoomService.cs",
-              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Business\\Services\\RoomService.cs",
-              "RelativeToolTip": "HubLap.Business\\Services\\RoomService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "HubLap.Data\\Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "HubLap.Data\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwGAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T05:16:47.589Z"
+              "WhenOpened": "2026-02-09T17:53:40.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "HubLap.Data\\Repositories\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "HubLap.Data\\Repositories\\RoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T05:10:47.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Business\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "HubLap.Business\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Business\\Services\\BookingService.cs",
+              "RelativeToolTip": "HubLap.Business\\Services\\BookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T19:48:13.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Business\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "HubLap.Business\\Interfaces\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Business\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "HubLap.Business\\Interfaces\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T19:47:25.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "HubLap.Web\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "HubLap.Web\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T20:05:10.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Interfaces\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "HubLap.Data\\Interfaces\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Interfaces\\IBookingRepository.cs",
+              "RelativeToolTip": "HubLap.Data\\Interfaces\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T17:53:05.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\Program.cs",
+              "RelativeDocumentMoniker": "HubLap.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\Program.cs",
+              "RelativeToolTip": "HubLap.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T17:54:02.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqlServerDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Core\\SqlServerDataAccess.cs",
+              "RelativeDocumentMoniker": "HubLap.Data\\Core\\SqlServerDataAccess.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Core\\SqlServerDataAccess.cs",
+              "RelativeToolTip": "HubLap.Data\\Core\\SqlServerDataAccess.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wCgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T20:44:02.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Core\\IDataAccess.cs",
+              "RelativeDocumentMoniker": "HubLap.Data\\Core\\IDataAccess.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\Core\\IDataAccess.cs",
+              "RelativeToolTip": "HubLap.Data\\Core\\IDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T20:39:16.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingHeader.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\BookingHeader.cs",
+              "RelativeDocumentMoniker": "HubLap.Models\\Entities\\BookingHeader.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\BookingHeader.cs",
+              "RelativeToolTip": "HubLap.Models\\Entities\\BookingHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:54:52.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "HubLap.Models\\Entities\\BookingDetail.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\BookingDetail.cs",
+              "RelativeToolTip": "HubLap.Models\\Entities\\BookingDetail.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:55:25.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\Views\\Booking\\Create.cshtml",
+              "RelativeDocumentMoniker": "HubLap.Web\\Views\\Booking\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\Views\\Booking\\Create.cshtml",
+              "RelativeToolTip": "HubLap.Web\\Views\\Booking\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T20:07:05.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "HubLap.Web.csproj",
               "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\HubLap.Web.csproj",
               "RelativeDocumentMoniker": "HubLap.Web\\HubLap.Web.csproj",
@@ -291,7 +291,103 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\RoomType.cs",
+              "RelativeDocumentMoniker": "HubLap.Models\\Entities\\RoomType.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\RoomType.cs",
+              "RelativeToolTip": "HubLap.Models\\Entities\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:55:50.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "HubLap.Models\\Entities\\Room.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\Room.cs",
+              "RelativeToolTip": "HubLap.Models\\Entities\\Room.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T20:01:04.439Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "HubLap.Models\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\Entities\\Entity.cs",
+              "RelativeToolTip": "HubLap.Models\\Entities\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T19:51:23.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HubLap.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\HubLap.Models.csproj",
+              "RelativeDocumentMoniker": "HubLap.Models\\HubLap.Models.csproj",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Models\\HubLap.Models.csproj",
+              "RelativeToolTip": "HubLap.Models\\HubLap.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-09T20:10:06.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "HubLap.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\appsettings.Development.json",
+              "RelativeToolTip": "HubLap.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-09T19:45:22.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "HubLap.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Web\\appsettings.json",
+              "RelativeToolTip": "HubLap.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAC5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-09T13:40:15.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HubLap.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Business\\HubLap.Business.csproj",
+              "RelativeDocumentMoniker": "HubLap.Business\\HubLap.Business.csproj",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Business\\HubLap.Business.csproj",
+              "RelativeToolTip": "HubLap.Business\\HubLap.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T20:35:31.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Business\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "HubLap.Business\\Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Business\\Services\\RoomService.cs",
+              "RelativeToolTip": "HubLap.Business\\Services\\RoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T05:16:47.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "HubLap.Data.csproj",
               "DocumentMoniker": "C:\\Users\\dsanchezm\\source\\repos\\practica\\HubLap.Data\\HubLap.Data.csproj",
               "RelativeDocumentMoniker": "HubLap.Data\\HubLap.Data.csproj",
@@ -300,6 +396,20 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-02-03T19:45:09.16Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 164,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

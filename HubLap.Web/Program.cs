@@ -16,12 +16,13 @@ builder.Services.AddControllersWithViews();
 // 1. Registrar el Acceso a Datos Genérico (SQL Server)
 builder.Services.AddTransient<IDataAccess, SqlServerDataAccess>();
 
-// 2. Registrar Repositorios (Capa de Datos)
+//registrar repositorios 
 builder.Services.AddTransient<IRoomRepository, RoomRepository>();
 builder.Services.AddTransient<IBookingRepository, BookingRepository>();
 
-// 3. Registrar Servicios (Capa de Negocio)
+//registrar servicios 
 builder.Services.AddTransient<IRoomService, RoomService>();
+builder.Services.AddTransient<IBookingService, BookingService>();
 
 var app = builder.Build();
 
