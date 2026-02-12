@@ -19,12 +19,11 @@ namespace HubLap.Data.Repositories
             _db = db;
         }
 
-        public async Task<IEnumerable<Room>> GetRooms()
+        public async Task<Room> GetRooms()
         {
-            return await _db.LoadData<Room, dynamic>(
-                "sp_GetAllRooms",
-                new { }
-            );
+            var result = await _db.LoadData<Room>("sp_GetAllRooms");
+            return result.FirstOrDefault();
+            
         }
 
         public async Task AddRoom(Room room)

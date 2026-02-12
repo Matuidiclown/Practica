@@ -16,7 +16,7 @@ namespace HubLap.Business.Services
             _roomRepository = roomRepository;
         }
 
-        public async Task<IEnumerable<Room>> GetAllRooms()
+        public async Task<Room> GetAllRooms()
         {
             // Aquí podrías poner lógica extra (ej: validar si el usuario tiene permisos)
             return await _roomRepository.GetRooms();

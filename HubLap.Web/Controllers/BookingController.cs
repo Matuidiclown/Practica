@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace HubLap.Web.Controllers
 {
+    [Route("Booking")]
     public class BookingController : Controller
     {
         private readonly IBookingService _bookingService;
@@ -16,13 +17,11 @@ namespace HubLap.Web.Controllers
             _roomService = roomService;
         }
 
-        public async Task<IActionResult> Create()
+        public async Task<IActionResult> Index()
         {
             var rooms = await _roomService.GetAllRooms();
-            ViewBag.RoomList = new SelectList(rooms, "Id", "Name");
-            return View();
+            return Ok(rooms);
         }
-
         [HttpPost]
         public async Task<IActionResult> Create(BookingHeader booking, int selectedRoomId, DateTime start, DateTime end)
         {
@@ -39,9 +38,7 @@ namespace HubLap.Web.Controllers
             catch (Exception ex)
             {
                 var rooms = await _roomService.GetAllRooms();
-                ViewBag.RoomList = new SelectList(rooms, "Id", "Name");
-                ViewBag.Error = ex.Message;
-                return View(booking);
+                return Ok(rooms);
             }
         }
     }

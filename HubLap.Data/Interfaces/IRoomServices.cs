@@ -9,7 +9,7 @@ namespace HubLap.Business.Interfaces
 {
     public interface IRoomService
     {
-        Task<IEnumerable<Room>> GetAllRooms();
+        Task<Room> GetAllRooms();
         Task CreateRoom(Room room);
     }
 }

@@ -10,7 +10,7 @@ namespace HubLap.Data.Interfaces
     public interface IRoomRepository
     {
         // Solo definimos QUÉ se puede hacer, no CÓMO.
-        Task<IEnumerable<Room>> GetRooms();
+        Task<Room> GetRooms();
         Task AddRoom(Room room);
     }
 }

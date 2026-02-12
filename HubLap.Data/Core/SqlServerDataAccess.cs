@@ -15,24 +15,25 @@ namespace HubLap.Data.Core
     {
         private readonly IConfiguration _config;
 
+        private readonly string _conectionstring;
+
         // Inyección de Dependencias: Pedimos la configuración al iniciar
         public SqlServerDataAccess(IConfiguration config)
         {
             _config = config;
+            _conectionstring = config.GetConnectionString("DefaultConnection");
         }
+        
 
         // Implementación de LEER
-        public async Task<IEnumerable<T>> LoadData<T, U>(string storedProcedure, U parameters, string connectionStringName = "DefaultConnection")
-        {   // saca la direccion de nuestra bd pa 
-            string connectionString = _config.GetConnectionString(connectionStringName);
-            // creamos y abrimos la conexion con la bd , es nuestro tunel uwu
-
-            using (IDbConnection connection = new SqlConnection(connectionString))
+        public async Task<IEnumerable<T>> LoadData<T>(string storedProcedure, object parameters = null)
+        {
+            using (var connection = new SqlConnection(_conectionstring))
             {
-                // Dapper hace su magia aquí: QueryAsync
-                // 
                 return await connection.QueryAsync<T>(storedProcedure, parameters, commandType: CommandType.StoredProcedure);
             }
+
+              
         }
 
         // Implementación de GUARDAR

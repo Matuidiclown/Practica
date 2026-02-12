@@ -8,7 +8,7 @@ namespace HubLap.Data.Core
 {
      public interface IDataAccess
     { //metodo para leer datos 
-        Task<IEnumerable<T>> LoadData<T, U>(string storedProcedure, U parameters, string connectionStringName = "DefaultConnection");
+        Task<IEnumerable<T>> LoadData<T>(string storedProcedure, object parameters = null);
 
         // metodo para guardar y editar datos 
         Task SaveData<T>(string storedProcedure, T parameters, string connectionStringName = "DefaultConnection");
