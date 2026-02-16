@@ -1,3 +1,4 @@
+﻿
 using HubLap.Business.Interfaces;
 using HubLap.Business.Services;
 using HubLap.Data.Core;
@@ -6,31 +7,43 @@ using HubLap.Data.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// ===============================
+// 🔹 Servicios
+// ===============================
+
+// MVC (Views + Controllers)
 builder.Services.AddControllersWithViews();
 
+// Swagger
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
-// ZONA DE INYECCI�N DE DEPENDENCIAS (DI)
+// ===============================
+// 🔹 Inyección de Dependencias
+// ===============================
 
-
-// 1. Registrar el Acceso a Datos Gen�rico (SQL Server)
 builder.Services.AddTransient<IDataAccess, SqlServerDataAccess>();
 
-//registrar repositorios 
 builder.Services.AddTransient<IRoomRepository, RoomRepository>();
 builder.Services.AddTransient<IBookingRepository, BookingRepository>();
 
-//registrar servicios 
 builder.Services.AddTransient<IRoomService, RoomService>();
 builder.Services.AddTransient<IBookingService, BookingService>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
+// ===============================
+// 🔹 Middleware
+// ===============================
+
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+else
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
@@ -41,8 +54,12 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+// Ruta MVC tradicional
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+// Rutas API
+app.MapControllers();
 
 app.Run();

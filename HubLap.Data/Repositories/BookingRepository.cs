@@ -1,6 +1,6 @@
 ﻿using Dapper;
-using HubLap.Data.Interfaces;
 using HubLap.Models.Entities;
+using HubLap.Data.Interfaces;
 using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
 using System.Data;
@@ -93,5 +93,65 @@ namespace HubLap.Data.Repositories
                 return conflicts == 0;
             }
         }
+        public async Task<IEnumerable<BookingHeader>> GetAllBookings()
+        {
+            string connectionString = _config.GetConnectionString("DefaultConnection");
+
+            using (IDbConnection connection = new SqlConnection(connectionString))
+            {
+                return await connection.QueryAsync<BookingHeader>(
+                    "sp_GetAllBookings",
+                    commandType: CommandType.StoredProcedure
+                );
+            }
+        }
+
+        public async Task<BookingHeader> GetBookingById(int id)
+        {
+            string connectionString = _config.GetConnectionString("DefaultConnection");
+
+            using (IDbConnection connection = new SqlConnection(connectionString))
+            {
+                return await connection.QueryFirstOrDefaultAsync<BookingHeader>(
+                    "sp_GetBookingById",
+                    new { Id = id },
+                    commandType: CommandType.StoredProcedure
+                );
+            }
+        }
+
+        public async Task DeleteBooking(int id)
+        {
+            string connectionString = _config.GetConnectionString("DefaultConnection");
+
+            using (IDbConnection connection = new SqlConnection(connectionString))
+            {
+                await connection.ExecuteAsync(
+                    "sp_DeleteBooking",
+                    new { Id = id },
+                    commandType: CommandType.StoredProcedure
+                );
+            }
+        }
+        public async Task UpdateBooking(BookingHeader booking)
+        {
+            string connectionString = _config.GetConnectionString("DefaultConnection");
+
+            using (IDbConnection connection = new SqlConnection(connectionString))
+            {
+                await connection.ExecuteAsync(
+                    "sp_UpdateBooking",
+                    new
+                    {
+                        booking.Id,
+                        booking.RoomID,
+                        booking.BookingStart,
+                        booking.BookingEnd
+                    },
+                    commandType: CommandType.StoredProcedure
+                );
+            }
+        }
+
     }
 }

@@ -1,1 +1,93 @@
-[]
+[
+  {
+    "ContainingType": "HubLap.Web.Controllers.BookingController",
+    "Method": "Index",
+    "RelativePath": "Booking",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HubLap.Web.Controllers.BookingController",
+    "Method": "Create",
+    "RelativePath": "Booking",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "StatusId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Subject",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "BookingDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "RoomID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "BookingStart",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "BookingEnd",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Details",
+        "Type": "System.Collections.Generic.List\u00601[[HubLap.Models.Entities.BookingDetail, HubLap.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserRegistrationDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "IsActive",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "selectedRoomId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "start",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "end",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

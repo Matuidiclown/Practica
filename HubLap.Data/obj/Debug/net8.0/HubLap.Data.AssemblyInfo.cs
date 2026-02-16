@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HubLap.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49a5b30f47320c7a7ab6deb95ffe8515f1c643b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b085d5f8d1a67982923c67ad114175ba6bd2607b")]
 [assembly: System.Reflection.AssemblyProductAttribute("HubLap.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HubLap.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

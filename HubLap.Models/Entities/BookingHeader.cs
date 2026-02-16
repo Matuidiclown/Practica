@@ -12,8 +12,9 @@ namespace HubLap.Models.Entities
         public int StatusId { get; set; }
         public string Subject { get; set; } = string.Empty;
         public DateTime BookingDate { get; set; }
-       
-
+        public int RoomID { get; set; }
+        public DateTime BookingStart { get; set; }
+        public DateTime BookingEnd { get; set; }
         public List<BookingDetail> Details { get; set; } = new List<BookingDetail>();
     }
 }

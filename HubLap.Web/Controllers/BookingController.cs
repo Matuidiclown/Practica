@@ -17,11 +17,14 @@ namespace HubLap.Web.Controllers
             _roomService = roomService;
         }
 
-        public async Task<IActionResult> Index()
+        [HttpGet]
+        [Route("")]
+        public IActionResult Index()
         {
-            var rooms = await _roomService.GetAllRooms();
-            return Ok(rooms);
+            return Ok();
         }
+
+
         [HttpPost]
         public async Task<IActionResult> Create(BookingHeader booking, int selectedRoomId, DateTime start, DateTime end)
         {
@@ -42,4 +45,5 @@ namespace HubLap.Web.Controllers
             }
         }
     }
+
 }
